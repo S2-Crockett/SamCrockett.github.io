@@ -20,13 +20,14 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![Map image](Map.png)
+
 
 [https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07]() 
 
 
 ```
 
+![Map image](Map.png)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
