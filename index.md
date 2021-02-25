@@ -7,14 +7,14 @@ Im a student at the University of the West of England studying Games Technology.
 ```markdown
 
 
-# Places Hiring
+### Places Hiring
 
 
 
 
 
 
-# What is a Gameplay Programmer?
+### What is a Gameplay Programmer?
 
 
 
