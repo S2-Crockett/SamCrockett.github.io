@@ -27,7 +27,8 @@ Syntax highlighted code block
 
 ```
 
-![Map image](Map.png)
+![Map image](Map.png)![Graph image](Graph.png)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
