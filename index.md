@@ -35,7 +35,7 @@ https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07
 
 
 
-![Map image](Map.png)![Graph image](Graph.PNG)
+![Map image](Map.png)![Graph image](Graph.PNG)![Table image](Table.PNG)
 
 
 
