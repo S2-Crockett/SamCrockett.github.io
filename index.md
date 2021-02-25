@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07]() and Map.png
+[https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07]() and <img src="Map.png" alt="hi" class="inline"/>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
