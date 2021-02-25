@@ -36,9 +36,16 @@ https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07
 
 
 ![Map image](Map.png)![Graph image](Graph.PNG)![Table image](Table.PNG)
+https://www.totaljobs.com/jobs/gameplay-programmer
+
 
 ## Potential Adjacent or Similar Roles 
-
+Gameplay Programmers are a vital aspect of game development. However there are other roles that are needed to produce a game. 
+One example are engine developers, this role focuses on creating new functionality to the engines used to create the game and
+improving on previous systems to make the engines more efficient. You also have AI programmers who focus on creating and 
+implementing artifical intelligence in games. another example could be network programmers who specialise in online connectivity 
+and creating multiplayer systems. While Gameplay programmers are do play a major role in the creation of a game there are many 
+other roles that play a very significant part.
 
 
 ## Advice for other aspiring Gameplay Programmers
