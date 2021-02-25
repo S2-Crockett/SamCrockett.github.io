@@ -7,7 +7,7 @@ Im a student at the University of the West of England studying Games Technology.
 
 ## What is a Gameplay Programmer?
 
-### Job Description
+## Job Description
 
 Researching the role, I discovered what is required to be a Gameplay Programmer. A gameplay programmer 
 must be able to communicate. At the start of every games development a gameplay programmer needs to 
@@ -17,7 +17,7 @@ ability to determine the best mechanics and gameplay required for each given exp
 determining which engine to use to implement those mechanics to a high standard using different 
 engines abilities.
 
-### Places Hiring
+## Places Hiring
 
 https://uk.linkedin.com/jobs/view/game-programmer-at-marmalade-game-studio-2408913395?refId=726508c7-bf4e-4e8d-bc36-b0bf4d222ba8&trackingId=PQLTzK5DafMkKNBDvTKnRw%3D%3D&position=2&pageNum=0&trk=public_jobs_job-result-card_result-card_full-click
 
@@ -37,9 +37,11 @@ https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07
 
 ![Map image](Map.png)![Graph image](Graph.PNG)![Table image](Table.PNG)
 
+## Advice for other aspiring Gameplay Programmers
 
 
-### Contact
+
+## Contact
 
 
 
