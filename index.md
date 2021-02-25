@@ -5,6 +5,14 @@ Im a student at the University of the West of England studying Games Technology.
 
 
 
+
+
+
+
+
+
+
+
 ## What is a Gameplay Programmer?
 
 ## Job Description
@@ -39,6 +47,8 @@ https://uk.indeed.com/jobs?q=Gameplay%20Programmer&vjk=5624b0bee22eaf07
 https://www.totaljobs.com/jobs/gameplay-programmer
 
 
+
+
 ## Potential Adjacent or Similar Roles 
 Gameplay Programmers are a vital aspect of game development. However there are other roles that are needed to produce a game. 
 One example are engine developers, this role focuses on creating new functionality to the engines used to create the game and
@@ -48,11 +58,20 @@ and creating multiplayer systems. While Gameplay programmers are do play a major
 other roles that play a very significant part.
 
 
+
+
 ## Advice for other aspiring Gameplay Programmers
 
+As mentioned at the start, one of the most important things that a Gameplay Programmer must be able to do is communicate. But you 
+shouldnt restrict this skill to just game development. One of the best things that you can do as an aspiring Gameplay Programmer 
+is get involved with other programmers and the community. The more people you meet and the more people that you can talk to about 
+any struggles that you have starting off the easier you will find you experience.
 
 
 ## Contact
 
+Email: Samuel2.Crockett@live.uwe.ac.uk
+
+Github: https://github.com/S2-Crockett
 
 
